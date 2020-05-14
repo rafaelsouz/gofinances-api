@@ -74,7 +74,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 <h4 align="center">
-  Feito com ❤ por Rafael 👋️ <a href="https://www.linkedin.com/in/rafaelsouz/" target="_blank">Entre em contato!</a>
+  Feito com ❤ por Rafael 👋️<a href="https://www.linkedin.com/in/rafaelsouz/" target="_blank"> Entre em contato!</a>
 </h4>
 
 ---
