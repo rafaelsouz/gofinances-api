@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src='github/logo.svg'/>
+  <img src='github/logo_.svg'/>
 </h1>
 
 # Indice
