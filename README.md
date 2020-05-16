@@ -34,6 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Reflect-metadata](https://www.npmjs.com/package/reflect-metadata)
 - [Typeorm](https://www.npmjs.com/package/typeorm)
 - [Express-async-errors](https://www.npmjs.com/package/express-async-errors)
+- [Cors](https://www.npmjs.com/package/cors)
 
 ---
 
