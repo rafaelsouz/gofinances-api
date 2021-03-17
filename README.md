@@ -18,11 +18,11 @@ O projeto **goFinances** foi um desafio proposto no **Bootcamp GoStack** da [Roc
 
 Com essa API é possível armazenar transações financeiras de entrada e saída e permite o cadastro e a listagem dessas transações, além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
 
-Caso você queria ver todo o enuciado do desafio só clicar [aqui](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload).
+Caso você queria ver todo o enunciado do desafio só clicar [aqui](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload).
 
 ---
 
-## 👨‍💻️ Tecnogias utilizadas
+## 👨‍💻️ Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
